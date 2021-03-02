@@ -1,7 +1,7 @@
 {
 	"name": "deterministic-proxy-deployment",
 	"description": "An Ethereum proxy contract that can be used for deploying contracts to a deterministic address on any chain.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"license": "Unlicense",
 	"repository": {
 		"type": "git",
